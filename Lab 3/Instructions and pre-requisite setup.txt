@@ -1,0 +1,11 @@
+The 3rd experiment is:
+
+How to perform simple computations in ARM controllers using
+assembly language programming.
+
+The list of equipments, components required are:
+1. KEIL 5 IDE for ARM
+2. Flashmagic software for programming ash memory
+3. ARM7 hardware kit
+4. USB to serial converter
+5. Serial cross cable
